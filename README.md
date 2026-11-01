@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-9.12-FFCA28?logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/status-projeto%20em%20desenvolvimento-orange)
+
 
 Aplicação web para gerenciamento de chamados de atendimento, desenvolvida com **React.js e Firebase**. O sistema permite registrar solicitações, acompanhar seus status, consultar informações dos atendimentos e administrar clientes e dados do perfil do usuário.
 
